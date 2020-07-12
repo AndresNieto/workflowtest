@@ -1,4 +1,7 @@
 # workflowtest
 Is a simple workflow example.
 
-App version 1.0.1
+
+
+New changes in feature 2
+App version 1.2.0
